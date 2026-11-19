@@ -1,0 +1,12 @@
+//Tính năng
+- Trang chủ hiển thị danh sách sản phẩm dạng lưới responsive (1 cột điện thoại, 2 cột tablet, 4 cột desktop)
+- Tìm kiếm sản phẩm theo tên
+- Xem chi tiết sản phẩm
+- Thêm sản phẩm vào giỏ hàng, tăng giảm số lượng, xoá từng sản phẩm hoặc xoá toàn bộ giỏ hàng
+- Tính tổng số lượng và tổng tiền giỏ hàng
+- Đăng nhập giả lập (mật khẩu "123456"), đăng xuất
+- Trang thanh toán được bảo vệ: chưa đăng nhập sẽ chuyển sang trang đăng nhập, đăng nhập xong quay lại trang trước đó
+- Đặt hàng xoá giỏ hàng và hiện thông báo thành công
+- Đổi giao diện sáng/tối
+- Header dùng chung hiển thị số lượng sản phẩm trong giỏ, tên người dùng, nút đăng xuất và nút đổi theme
+- Trang 404 cho đường dẫn không tồn tại
